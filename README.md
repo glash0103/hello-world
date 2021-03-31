@@ -1,2 +1,2 @@
 # hello-world
-just another repository 
+eu sou um iniciador em programação, only that 
